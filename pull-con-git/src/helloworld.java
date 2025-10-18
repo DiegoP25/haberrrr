@@ -6,7 +6,7 @@ public class helloworld {
 		System.out.println("Hello World");	
 		System.out.println("Other World sin punto");	
 		System.out.println("Otro masss");
-		lo he vinculadoo
+		
 	}
 }
 
